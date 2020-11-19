@@ -49,7 +49,8 @@ date_format = "Jan 2006"
   * Feature Extraction
   * Data Visualisation
   * Data Labelling
-  
+ """
+ 
   [[experience]]
   title = "Embedded Intern"
   company = "Hacklab"
@@ -64,4 +65,5 @@ date_format = "Jan 2006"
   * Embedded Systems
   * UART, I2C, and SPI Communication
   * Sensor Callibration
+
 +++
