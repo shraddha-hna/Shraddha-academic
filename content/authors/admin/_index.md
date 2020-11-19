@@ -40,7 +40,7 @@ social:
   link: '/#contact'  # For a direct email link, use "shraddha.sharma@ntu.edu.sg".
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/shraddha-sharma-0642776b
+  link: https://linkedin.com/in/shraddha-sharma-0642776b
 - icon: google-scholar
   icon_pack: ai
   link: https://ieeexplore.ieee.org/abstract/document/8782501/
