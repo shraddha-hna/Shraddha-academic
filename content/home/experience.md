@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Engineer"
+  company = "SMRT Lab@NTU"
+  company_url = "https://smrt-ntu-smarturbanrail.ntu.edu.sg/Pages/index.aspx"
+  location = "Singapore"
+  date_start = "2020-04-15"
   date_end = ""
-  description = """
+  description = """Identifying intereference signal in the train signaling system."""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data Analysis 
+  * Time-Series Analysis
+  * Machine Learning
+  * Data Classification
+  * Data Visualisation
+  * Feature Extraction
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Part-time Project Officer"
+  company = "Dauwels Lab@NTU"
+  company_url = "https://www.dauwelslab.com"
+  location = "NTU"
+  date_start = "2019-04-10"
+  date_end = "2019-10-31"
+  description = """Worked on two projects of human behaviour analysis."""
+  Responsibilities include:
+  
+  * Time-Series Analysis 
+  * Feature Extraction
+  * Data Visualisation
+  * Data Labelling
+  
+  [[experience]]
+  title = "Embedded Intern"
+  company = "Hacklab"
+  company_url = "https://www.linkedin.com/company/hacklab-innovations/about/"
+  location = "Bengaluru, India"
+  date_start = "2017-07-10"
+  date_end = "2019-11-10"
+  description = """Developed Indoor localisation system for asset tagging system and interfaced agriculture sensors."""
+  Responsibilities include:
+  
+  * Sensor Interfacing 
+  * Embedded Systems
+  * UART, I2C, and SPI Communication
+  * Sensor Callibration
 +++
