@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   [[experience]]
   title = "Embedded Intern"
   company = "Hacklab"
-  company_url = "https://www.linkedin.com/company/hacklab-innovations/about/"
+  company_url = "http://hacklab.in"
   location = "Bengaluru, India"
   date_start = "2017-07-10"
   date_end = "2019-11-10"
