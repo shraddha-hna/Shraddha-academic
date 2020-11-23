@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   company = "SMRT Lab@NTU"
   company_url = "https://smrt-ntu-smarturbanrail.ntu.edu.sg/Pages/index.aspx"
   location = "Singapore"
-  date_start = "2020-04-15"
+  date_start = "2020-01-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -42,7 +42,25 @@ date_format = "Jan 2006"
   """
 
  
-
+[[experience]]
+  title = "Part-time Project Officer"
+  company = "Dauwels Lab@NTU"
+  company_url = "https://www.dauwelslab.com"
+  location = "Singapore"
+  date_start = "2019-04-10"
+  date_end = "2019-10-31"
+  description = """Worked on two projects of human behavioural analysis
+  Responsibilities include:
+  
+  * Data Analysis
+  * Time-Series Analysis
+  * Machine Learning
+  * Data Classification
+  * Data Visualisation
+  * Feature Extraction
+  """
+  
+  
 [[experience]]
   title = "Professor"
   company = "University X"
