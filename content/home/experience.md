@@ -23,7 +23,6 @@ date_format = "Jan 2006"
   company_url = "https://smrt-ntu-smarturbanrail.ntu.edu.sg/Pages/index.aspx"
   location = "Singapore"
   date_start = "2020-04-15"
-  date_end = ""
   description = """Identifying intereference signal in the train signaling system."""
   Responsibilities include:
   
