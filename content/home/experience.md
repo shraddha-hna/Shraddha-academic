@@ -33,9 +33,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data Analysis
+  * Time-Series Analysis
+  * Machine Learning
+  * Data Classification
+  * Data Visualisation
+  * Feature Extraction
   """
 
  
