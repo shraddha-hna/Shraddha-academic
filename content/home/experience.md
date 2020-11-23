@@ -54,10 +54,10 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Time-Series Analysis
-  * Hardware setup of Microphone and Camera
   * Data Visualisation
   * Feature Extraction
   * Data Labelling
+  * Hardware setup for data collection
   """
   
   
