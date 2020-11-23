@@ -32,7 +32,6 @@ date_format = "Jan 2006"
   * Data Classification
   * Data Visualisation
   * Feature Extraction
-  """
 
 [[experience]]
   title = "Part-time Project Officer"
@@ -48,7 +47,6 @@ date_format = "Jan 2006"
   * Feature Extraction
   * Data Visualisation
   * Data Labelling
- """
  
   [[experience]]
   title = "Embedded Intern"
