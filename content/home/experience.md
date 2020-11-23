@@ -30,12 +30,13 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2020-01-01"
   date_end = ""
-  description = """
+  description = """Identifying Interference signals in the train signaling system
   Responsibilities include:
   
-  * Data Analysis
-  * Time-Series Analysis
   * Machine Learning
+  * Neural Networks
+  * Time-Series Analysis
+  * Data Analysis
   * Data Classification
   * Data Visualisation
   * Feature Extraction
@@ -52,24 +53,29 @@ date_format = "Jan 2006"
   description = """Worked on two projects of human behavioural analysis
   Responsibilities include:
   
-  * Data Analysis
   * Time-Series Analysis
-  * Machine Learning
-  * Data Classification
+  * Hardware setup of Microphone and Camera
   * Data Visualisation
   * Feature Extraction
+  * Data Labelling
   """
   
   
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Embedded Intern"
+  company = "Hacklab"
+  company_url = "http://hacklab.in"
+  location = "Bengaluru, India"
+  date_start = "2017-07-10"
+  date_end = "2019-11-10"
+  description = """Developed Indoor localisation system for asset tagging system and interfaced agriculture sensors.
+  Responsibilities include:
+  
+  * Sensor Interfacing 
+  * Embedded Systems
+  * UART, I2C, and SPI Communication
+  * Sensor Callibration
+"""
  
 
 +++
