@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "ICoIAS, 2019"
-  organization_url = "http://www.icias.org/icoias2019.html"
+  organization_url = ""
   title = "Excellent Oral Presentation Award"
   url = ""
 #  certificate_url = "https://www.coursera.org"
