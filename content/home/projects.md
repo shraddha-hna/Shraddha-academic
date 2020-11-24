@@ -7,6 +7,9 @@ weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = "Indian Classical Vocal Training Tool"
+subtitle = "Avadutha: a wayfinding tool"
+subtitle = "Terminal Vocabulary trainer for OSX and Linux"
+subtitle = "Wireless transmission of Solar Power"
 
 [content]
   # Page type to display. E.g. project.
