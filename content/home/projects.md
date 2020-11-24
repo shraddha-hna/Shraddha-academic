@@ -23,12 +23,12 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-     name = "All"
-     tag = "*"
-     * Indian Classical Vocal Training Tool
-     * Avadutha: a wayfinding tool
-     * Terminal Vocabulary trainer for OSX and Linux
-     * Wireless transmission of Solar Power
+  #   name = "All"
+  #   tag = "*"
+  #   * Indian Classical Vocal Training Tool
+  #   * Avadutha: a wayfinding tool
+  #   * Terminal Vocabulary trainer for OSX and Linux
+  #   * Wireless transmission of Solar Power
   
   # [[content.filter_button]]
      name = "Deep Learning"
