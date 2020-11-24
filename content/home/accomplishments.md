@@ -18,15 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "ICoIAS, 2019"
-  organization_url = ""
-  title = "Excellent Oral Presentation Award"
-  url = ""
-#  certificate_url = "https://www.coursera.org"
-  date_start = ""
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = "Hackathon"
