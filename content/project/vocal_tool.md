@@ -9,14 +9,14 @@ title = "Indian Classical Vocal Training Tool"
 summary = "A vocal-tutor to teach Indian Classical Music"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = media/singing.png
+image_preview = "singing.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 # image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["music"]
+tags = ["music"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
