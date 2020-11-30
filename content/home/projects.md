@@ -25,9 +25,9 @@ subtitle = ""
       name = "Indidan"
       tag = "Research"
   
-  # [[content.filter_button]]
-  #   name = "Indian Classical Vocal Training Tool"
-  #   tag = "*"
+  [[content.filter_button]]
+      name = "Indian Classical Vocal Training Tool"
+      tag = "*"
   #   * Indian Classical Vocal Training Tool
   #   * Avadutha: a wayfinding tool
   #   * Terminal Vocabulary trainer for OSX and Linux
