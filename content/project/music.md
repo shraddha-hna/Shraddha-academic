@@ -3,7 +3,7 @@
 # date = "2016-04-27"
 
 # Project title.
-title = "galfast"
+title = "Indian Classical Vocal Training Tool"
 
 # Project summary to display on homepage.
 summary = "A fast GPU-accelerated mock catalog generator"
@@ -12,7 +12,7 @@ summary = "A fast GPU-accelerated mock catalog generator"
 # image_preview = "galfast-starcounts-2.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-image = ""
+# image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,6 +22,6 @@ image = ""
 # external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+# math = false
 
 +++
