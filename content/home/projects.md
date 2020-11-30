@@ -23,6 +23,7 @@ subtitle = ""
   filter_default = 0
   [[item]]
       name = "Indidan"
+      tag = "Research"
   
   # [[content.filter_button]]
   #   name = "Indian Classical Vocal Training Tool"
