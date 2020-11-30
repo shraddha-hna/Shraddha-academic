@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   title = "Excellent Oral Presentation Award"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
-  date_start = "2019-03-01"
-  date_end = ""
+  date_start = "2018-02-28"
+  date_end = "2019-03-02"
 #  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
