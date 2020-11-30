@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   title = "Excellent Oral Presentation Award and Paper Publication"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
-  date_start = "2018-02-28"
+  date_start = "2019-02-28"
   date_end = "2019-03-02"
   description = "Paper Publication in IEEEXplore."
   
@@ -37,6 +37,26 @@ date_format = "Jan 2006"
  # certificate_url = "https://www.datacamp.com"
   date_start = "2018-11-12"
   date_end = "2018-11-14"
+  description = ""
+  
+[[item]]
+  organization = "Women in Music Information Retrieval"
+ # organization_url = "https://www.datacamp.com"
+  title = "Poster Presentation in WiMIR, Paris"
+  url = ""
+ # certificate_url = "https://www.datacamp.com"
+  date_start = "2018-09-03"
+ # date_end = "2018-09-04"
+  description = ""
+  
+[[item]]
+  organization = "Research Showcase"
+ # organization_url = "https://www.datacamp.com"
+  title = "Poster Presentation@NTU, Singapore"
+  url = ""
+ # certificate_url = "https://www.datacamp.com"
+  date_start = "2018-11-03"
+ # date_end = "2018-09-04"
   description = ""
 
 +++
