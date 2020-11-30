@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Hackathon"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "2nd International Conference on Intelligent Autonomous Systems"
+  organization_url = "http://www.icias.org/icoias2019.html"
+  title = "Excellent Oral Presentation Award"
+#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+#  certificate_url = "https://www.edx.org"
+  date_start = "2019-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+#  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
   organization = "DataCamp"
