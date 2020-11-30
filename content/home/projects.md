@@ -21,13 +21,14 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  
+  [[content.filter_button]]
   [[item]]
       name = "Indidan"
       tag = "Research"
   
-  [[content.filter_button]]
-      name = "Indian Classical Vocal Training Tool"
-      tag = "*"
+  #    name = "Indian Classical Vocal Training Tool"
+  #    tag = "*"
   #   * Indian Classical Vocal Training Tool
   #   * Avadutha: a wayfinding tool
   #   * Terminal Vocabulary trainer for OSX and Linux
