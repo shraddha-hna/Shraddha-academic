@@ -6,10 +6,10 @@
 title = "Indian Classical Vocal Training Tool"
 
 # Project summary to display on homepage.
-summary = "A fast GPU-accelerated mock catalog generator"
+summary = "A vocal-tutor to teach Indian Classical Music"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image_preview = "galfast-starcounts-2.jpg"
+image_preview = "singing.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 # image = ""
