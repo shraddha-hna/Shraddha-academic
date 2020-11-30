@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "2nd International Conference on Intelligent Autonomous Systems"
   organization_url = "http://www.icias.org/icoias2019.html"
-  title = "Excellent Oral Presentation Award and Paper Publication"
+  title = "Excellent Oral Presentation Award and IEEE Paper Publication"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
   date_start = "2019-02-28"
