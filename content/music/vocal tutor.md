@@ -9,7 +9,7 @@ title = "galfast"
 summary = "A fast GPU-accelerated mock catalog generator"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "galfast-starcounts-2.jpg"
+# image_preview = "galfast-starcounts-2.jpg"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 image = ""
