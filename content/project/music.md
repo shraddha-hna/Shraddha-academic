@@ -16,7 +16,7 @@ summary = "A vocal-tutor to teach Indian Classical Music"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["music"]
+tags = ["Music"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
