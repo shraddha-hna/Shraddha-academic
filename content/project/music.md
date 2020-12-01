@@ -8,7 +8,7 @@ title = "Indian Classical Vocal Training Tool"
 # Project summary to display on homepage.
 summary = "A vocal-tutor to teach Indian Classical Music"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
+# Optional image to display on homepage (relative to `static/media/` folder).
 image = "singing.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
