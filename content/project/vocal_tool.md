@@ -12,7 +12,7 @@ summary = "A vocal-tutor to teach Indian Classical Music"
 image_preview = "singing.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-image = ""
+# image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
