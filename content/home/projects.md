@@ -30,7 +30,7 @@ view = 1
   tag = ".music"
 
 [[filter]]
-  name = "Avadutha:Wayfinding"
+  name = "Avadutha"
   tag = ".wayfinding"
 
 +++
