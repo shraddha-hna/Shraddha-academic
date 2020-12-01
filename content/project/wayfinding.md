@@ -16,7 +16,7 @@ summary = "A Wayfinding tool for indoor tracking"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["music","wayfinding"]
+tags = ["wayfinding"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
