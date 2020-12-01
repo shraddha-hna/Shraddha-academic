@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 # date = "2016-04-27"
-
+widget = "Blank"
 # Project title.
 title = "Indian Classical Vocal Training Tool"
 
@@ -9,7 +9,7 @@ title = "Indian Classical Vocal Training Tool"
 summary = "A vocal-tutor to teach Indian Classical Music"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-{{< figure library="true" src="singing.png" title="A caption" >}} 
+image_preview = "singing.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 # image = "singing.png"
