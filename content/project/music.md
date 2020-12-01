@@ -9,7 +9,7 @@ title = "Indian Classical Vocal Training Tool"
 summary = "A vocal-tutor to teach Indian Classical Music"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = {{< figure library="true" src="singing.png" title="A caption" >}} 
+{{< figure library="true" src="singing.png" title="A caption" >}} 
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 # image = "singing.png"
