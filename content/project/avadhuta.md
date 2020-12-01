@@ -9,10 +9,10 @@ title = "Avadhuta"
 summary = "A Wayfinding tool for indoor tracking"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "singing.png"
+# image_preview = "singing.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-#image = ""
+# image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
