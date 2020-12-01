@@ -26,11 +26,11 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Indian Classical Vocal Training Tool"
+    name = "Music"
     tag = ".music"
 
   [[content.filter_button]]
-    name = "Avadhuta"
+    name = "Wayfinding"
     tag = ".wayfinding"
   
 [design]
