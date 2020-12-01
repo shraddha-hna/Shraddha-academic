@@ -25,15 +25,15 @@ tags = ["wayfinding"]
 # math = false
 
 +++
-Global Positioning System (GPS)  does not work in indoor environments
-Wi-Fi Received Signal Strength(RSSI) indicator data is unreliable in Non-line of sight conditions
-Our system uses GPS data outdoors and integrates indoor tracking into it
+Global Positioning System (GPS)  does not work in indoor environments.
+Wi-Fi Received Signal Strength(RSSI) indicator data is unreliable in Non-line of sight conditions.
+Our system uses GPS data outdoors and integrates indoor tracking into it.
 Machine learning techniques has been used to map the indoor radiation patterns of Wi-Fi signals in each building.
 Our GUI provides a provision for scanning QR codes located at selected landmarks.
-Our system can also give directions to the user through the pictures taken by the mobile phone using image processing and pattern recognition
-The main advantage of our system is that we don't use extra hardwares for indoor tracking except for the QR codes placed at some landmarks
+Our system can also give directions to the user through the pictures taken by the mobile phone using image processing and pattern recognition.
+The main advantage of our system is that we don't use extra hardwares for indoor tracking except for the QR codes placed at some landmarks.
 Our system also considers the obstructions in the Wi-Fi signals by concrete walls and partitions by training a system.
 In the absence of Wi-Fi signals, we got other options like
-QR codes.
-Image Processing from mobile camera.
-Sound signatures to verify the correctness of path
+QR codes,
+Image Processing from mobile camera,
+Sound signatures to verify the correctness of path.
