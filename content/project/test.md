@@ -11,6 +11,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  link: media/singing.png
 
 links:
 - icon: twitter
