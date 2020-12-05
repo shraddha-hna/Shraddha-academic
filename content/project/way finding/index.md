@@ -25,14 +25,13 @@ tags = ["wayfinding"]
 # math = false
 
 +++
-Global Positioning System (GPS)  does not work in indoor environments.
-Wi-Fi Received Signal Strength(RSSI) indicator data is unreliable in Non-line of sight conditions.
-Our system uses GPS data outdoors and integrates indoor tracking into it.
-Machine learning techniques has been used to map the indoor radiation patterns of Wi-Fi signals in each building.
-Our GUI provides a provision for scanning QR codes located at selected landmarks.
-Our system can also give directions to the user through the pictures taken by the mobile phone using image processing and pattern recognition.
-The main advantage of our system is that we don't use extra hardwares for indoor tracking except for the QR codes placed at some landmarks.
-Our system also considers the obstructions in the Wi-Fi signals by concrete walls and partitions by training a system.
+Avadhuta: a way finding solution for indoor environments was developed by my team at Singapore-India Hackathon held at Nanyang Technlogical University. The motivation to design this system was to resolve the issue of finding locaton of any department inside a building. 
+The Global Positioning System (GPS) does not work in indoor environments.
+Also, Wi-Fi Received Signal Strength(RSSI) indicator data is unreliable in Non-line of sight conditions.
+To resolve this issue, our system used GPS data outdoors and integrated indoor tracking into it. To map the indoor radiation patterns of Wi-Fi signals in each building, a machine learning technique was used. Our GUI provides a provision for scanning QR codes located at selected landmarks.
+It can also give directions to the user through the pictures taken by the mobile phone using image processing and pattern recognition.
+The main advantage of our system is that we didn't use extra hardwares for indoor tracking except for the QR codes placed at some landmarks.
+Our system also considered the obstructions in the Wi-Fi signals by concrete walls and partitions by training a system.
 In the absence of Wi-Fi signals, we got other options like
 QR codes,
 Image Processing from mobile camera,
