@@ -16,7 +16,7 @@ summary = "A line follower bot that crosses all the obstacles to reach its desti
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Wayfinding"]
+tags = ["wayfinding"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
