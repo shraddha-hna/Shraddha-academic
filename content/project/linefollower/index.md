@@ -26,7 +26,7 @@ tags = ["wayfinding"]
 
 +++
 This project was developed in the year 2013. 
-In this project, a line following bot which works on the principle of the signal received by infrared(IR) sensors. Here, two IR sensors were used, the left IR sensor and the right IR sensor. Both the sensors were connected to the Arduino board which in turn was connected to the motor of the bot. The Arduino was programmed in such a manner that whenever a white surface was detected by both the sensors, the bot moved forward and when the black surface was detected by any one of the sensors, the bot moved in the left and right direction accordingly. When the black surface was detected by both the sensors(which depicted the end of the path), the bot stopped.
+In this project, a line following bot was developed which works on the principle of the signal received by infrared(IR) sensors. Here, two IR sensors were used, the left IR sensor and the right IR sensor. Both the sensors were connected to the Arduino board which in turn was connected to the motor of the bot. The Arduino was programmed in such a manner that whenever a white surface was detected by both the sensors, the bot moved forward and when the black surface was detected by any one of the sensors, the bot moved in the left or right direction according to the code. When the black surface was detected by both the sensors(which depicted the end of the path), the bot stopped.
 
-The demo of this project was successful and received the first prize and got selected for presenting in the Kshiitj, Asia's largest techno-management festival.
+The demo of this project was successful and received the first prize. It also got selected for presenting in the Kshiitj, Asia's largest techno-management festival.
 
