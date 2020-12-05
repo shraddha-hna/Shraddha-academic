@@ -17,9 +17,11 @@ organizations:
 bio: My research interests include music information retrieval,signal processing and machine learning.
 
 interests:
-- Artificial Intelligence
 - Signal Processing
-- Music Information Retrieval
+- Music Technology
+- Human Computer Music Interaction
+- Artificial Intelligence
+
 
 education:
   courses:
@@ -66,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Shraddha Sharma is a research engineer of artificial intelligence at the NTU SMRT Lab. Her research interests include signal processing, machine learning and music information retrieval.
+I am a research engineer of artificial intelligence at the SMRT Lab of Nanyang Technological University, a Laboraory focussed on designing and improving existing technologies for the SMRT, Singapore Mass Rapid Transit. My research interests include signal processing, machine learning, music information retrieval, and human computer music interaction. Besides academic interests, I am a passionate dancer (leader of dance crew in NTU) and love singing.
