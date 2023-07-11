@@ -6,7 +6,7 @@ title: Shraddha Sharma
 superuser: true
 
 # Role/position
-role: Research Engineer
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,12 @@ organizations:
   url: "https://www.ntu.edu.sg/Pages/home.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include music information retrieval,signal processing and machine learning.
+bio: My research interests include Music signal processing, machine learning, Biomedical Signal Processing.
 
 interests:
 - Signal Processing
 - Music Technology
-- Human Computer Music Interaction
+- Linear Algebra
 - Artificial Intelligence
 
 
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "shraddha.sharma@ntu.edu.sg".
+  link: '/#contact'  # For a direct email link, use "shraddha.hna@gmail.com".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shraddha-sharma-0642776b
@@ -56,7 +56,7 @@ social:
   link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shraddha.sharma@ntu.edu.sg"
+email: "shraddha.hna@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a research engineer of artificial intelligence at the SMRT Lab of Nanyang Technological University, a Laboraory focussed on designing and improving existing technologies for the SMRT, Singapore Mass Rapid Transit. My research interests include signal processing, machine learning, music information retrieval, and human computer music interaction. Besides academic interests, I am a passionate dancer (leader of dance crew in NTU) and love singing.
+I am a data scientist at the Biofourmis Pvt. Ltd.,where I am part of the ECG team and work on early detection of heart abnormalities. My research interests include signal processing, machine learning, linear algebra, and music/biomedical signal processing. Besides academic interests, I am a passionate dancer and love singing.
