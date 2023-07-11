@@ -24,12 +24,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Scientist"
+  company = "Biofourmis Pvt. Ltd."
+  company_url = "https://www.biofourmis.com"
+  location = "Singapore"
+  date_start = "2021-04-19"
+  date_end = ""
+  description = """Abnormality detection in the ECG signals
+  Responsibilities include:
+  
+  * Machine Learning
+  * Deep Learning
+  * Time-Series Analysis
+  * Pattern detection
+  * Interpret ECG patterns
+  * Design model specifications
+  * Examine Clinical Guidelines
+  """
+[[experience]]
+  title = "Founder in Residence"
+  company = "Enterpreneur First"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2021-02-01"
+  date_end = "2021-03-30"
+  description = """Self employed through a program called Enterpreneur First 
+  Responsibilities include:
+  
+  * Designing Figma based mock prototype
+  * Python Based GUI
+  * Model Building
+  * Customer Validation
+  """
+
+[[experience]]
   title = "Research Engineer"
   company = "SMRT Lab@NTU"
   company_url = "https://smrt-ntu-smarturbanrail.ntu.edu.sg/Pages/index.aspx"
   location = "Singapore"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2021-01-30"
   description = """Identifying Interference signals in the train signaling system
   Responsibilities include:
   
