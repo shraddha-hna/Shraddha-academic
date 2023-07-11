@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "60%"  
+  description = "90%"  
   
 [[feature]]
   icon = "camera-retro"
