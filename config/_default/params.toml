@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "shraddha.sharma@ntu.edu.sg"
+email = "shraddha.hna@gmail.com"
 phone = "+65-86558813"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "S2.1-B3-01, 50 Nanyang Ave", city = "School of Electrical and Electronics Engineering", region = "Nanyang Teechnological University", postcode = "639798", country = "Singapore", country_code = "SG"}
+address = {street = "10 Jelebu Road", city = "Singapore", region = "North West", postcode = "677672", country = "Singapore", country_code = "SG"}
 
 
 # Geographic coordinates
@@ -101,11 +101,11 @@ address = {street = "S2.1-B3-01, 50 Nanyang Ave", city = "School of Electrical a
 coordinates = {latitude = "1.345663186780955", longitude = "103.68075447937841"}
 
 # Directions for visitors to locate you.
-directions = "Enter Nanyang Tchnological University and come to School of Electrical and Electronics Engineering"
+directions = "Reach Hillion Mall and come to Hillion Residences just above the Mall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
