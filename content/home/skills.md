@@ -25,7 +25,20 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine Learning"
   description = "90%"  
+
+[[feature]]
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Linear Algebra"
+  description = "100%"
+
+[[feature]]
+  icon = "video"
+  icon_pack = "fas"
+  name = "Video Editing"
+  description = "60%"
   
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"

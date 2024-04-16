@@ -27,7 +27,7 @@ education:
   courses:
   - course: MEng in Robotics and Artificial Intelligence
     institution: Nanyang Technological University
-    year: 2018
+    year: 2020
   - course: BTech in Electronics and Communication Engineering
     institution: The LNM Institute of Information Technology
     year: 2016
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Data Scientist with a Master of Engineering in Robotics and Artificial Intelligence from Nanyang Technological University, Singapore. I have developed machine learning models for audio(music) signals, train signals, and Biomedical(ECG) signals while working on various projects in different industries. My research interests include signal processing, machine learning, linear algebra, and music/biomedical signal processing. Besides academic interests, I am a passionate dancer, editor([youtube cooking videos](https://youtube.com/@TwoStatesRasoi?si=yQD8GpNS0pNgFs5F)) and love singing.
+I am a Data Scientist with a Master of Engineering in Robotics and Artificial Intelligence from Nanyang Technological University, Singapore. I have developed machine learning models for audio(music) signals, train signals, and biomedical(ECG) signals while working on various projects in different industries. My research interests include signal processing, machine learning, linear algebra, and audio/biomedical signal processing. Besides academic interests, I am a passionate dancer and editor([cooking videos](https://youtube.com/@TwoStatesRasoi?si=yQD8GpNS0pNgFs5F)), and I love singing.
