@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   company_url = "https://www.biofourmis.com"
   location = "Singapore"
   date_start = "2021-04-19"
-  date_end = ""
+  date_end = "2023-11-08"
   description = """Abnormality detection in the ECG signals
   Responsibilities include:
   
