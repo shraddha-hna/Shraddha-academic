@@ -14,13 +14,13 @@ organizations:
   url: "https://www.ntu.edu.sg/Pages/home.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Music signal processing, machine learning, Biomedical Signal Processing.
+bio: My research interests include Linear Algebra, Signal Processing, Artificial Intelligence, Music Signal Processing, Machine Learning.
 
 interests:
 - Signal Processing
-- Music Technology
 - Linear Algebra
 - Artificial Intelligence
+- Music Technology
 
 
 education:
@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/CV_Shraddha.pdf
+  link: media/Shraddha_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shraddha.hna@gmail.com"
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a data scientist at the Biofourmis Pvt. Ltd.,where I am part of the ECG team and work on early detection of heart abnormalities. My research interests include signal processing, machine learning, linear algebra, and music/biomedical signal processing. Besides academic interests, I am a passionate dancer and love singing.
+I was a data scientist at the Biofourmis Pvt. Ltd.,where I was part of the ECG team and worked on early detection of heart abnormalities. My research interests include signal processing, machine learning, linear algebra, and music/biomedical signal processing. Besides academic interests, I am a passionate dancer and love singing.
