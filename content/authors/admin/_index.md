@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I was a data scientist at the Biofourmis Pvt. Ltd.,where I was part of the ECG team and worked on early detection of heart abnormalities. My research interests include signal processing, machine learning, linear algebra, and music/biomedical signal processing. Besides academic interests, I am a passionate dancer and love singing.
+I am a Data Scientist with a Master of Engineering in Robotics and Artificial Intelligence from Nanyang Technological University, Singapore. I have developed machine learning models for audio(music) signals, train signals, and Biomedical(ECG) signals while working on various projects in different industries. My research interests include signal processing, machine learning, linear algebra, and music/biomedical signal processing. Besides academic interests, I am a passionate dancer, editor([youtube cooking videos](https://youtube.com/@TwoStatesRasoi?si=yQD8GpNS0pNgFs5F)) and love singing.
